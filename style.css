@@ -1,0 +1,36 @@
+body {
+  top: 20px;
+  font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+  margin: auto;
+}
+h2 {
+  margin-left: 110px;
+}
+h5 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+  font-weight: bold;
+}
+#cityUser {
+  width: 140px;
+  height: 35px;
+}
+.card-header {
+  text-align: center;
+  font-size: 12px;
+}
+#date {
+  font-size: 30px;
+  margin-left: 0;
+}
+#city {
+  margin-left: 20px;
+  font-weight: bold;
+}
+.temp {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: normal;
+}
